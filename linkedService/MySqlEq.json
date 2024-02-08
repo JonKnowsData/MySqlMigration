@@ -1,0 +1,18 @@
+{
+	"name": "MySqlEq",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "MySql",
+		"typeProperties": {
+			"server": "programsmith.com",
+			"port": 3306,
+			"database": "progra5_eQ_TEST",
+			"username": "progra5_mysql_migration",
+			"sslMode": 1,
+			"useSystemTrustStore": 0,
+			"driverVersion": "v2",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDc4MDkxNjY4LTY2OUUtNDIzNS1BRDRCLTQ1RDg1QkZGNjhDRl85YjM2ODlmOS1lZjEzLTQ1ZTctODFlNC01Yzc5NjAwNWViZGQiDQp9"
+		}
+	}
+}
