@@ -1,0 +1,9 @@
+{
+	"name": "mysqlmigrationdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2e7216c4-4b12-48b6-baec-8fa5123b1644",
+		"tenantId": "0813c750-7066-47d4-9aea-1d92a0f1f37c"
+	}
+}
